@@ -8,6 +8,7 @@ Temperature, Humidity and CO2 measurements were recorded for 3 days while changi
 
 *****************************************************************************************************************************************
 ALL THE DATA COLLECTED WAS FROM A SINGLE LOCATION BECAUSE OF THE COVID19 SHELTER IN PLACE ORDER 
+
 MORE DATA CAN BE COLLECTED AND TRAINED WITH THIS MODEL
 ******************************************************************************************************************************************
 
